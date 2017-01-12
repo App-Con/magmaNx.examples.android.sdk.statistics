@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Statistics Collectors</string>
+    <string name="state_playing">playing</string>
+    <string name="state_stopped">stopped</string>
+    <string name="state_buffering">buffering</string>
+    <string name="state_completed">completed</string>
+    <string name="state_media_error">media_error</string>
+    <string name="state_security_error">security_error</string>
+    <string name="state_created">created</string>
+    <string name="label_current_state">Current State:</string>
+    <string name="label_position">Position:</string>
+</resources>
